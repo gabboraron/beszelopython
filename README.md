@@ -1,0 +1,2 @@
+# beszelopython
+szamhalok | szamítógépes hálózatok
